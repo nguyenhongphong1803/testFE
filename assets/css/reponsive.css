@@ -1,7 +1,7 @@
 @media (min-width: 1024px) {
     .footer {
-        width: 1768px;
-        height: 79px;
+        /* width: 1768px;
+        height: 79px; */
         position: relative;
         bottom: 0;
         border: 1px solid #DEDEDE;
@@ -23,6 +23,8 @@
 
 
 @media (max-width: 740px){
+    
+
   .desc-colum {
     display: block;
   }
