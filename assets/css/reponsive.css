@@ -1,8 +1,33 @@
+@media (min-width: 1024px) {
+    .footer {
+        width: 1768px;
+        height: 79px;
+        position: relative;
+        bottom: 0;
+        border: 1px solid #DEDEDE;
+       
+    }
+    .coppyright {
+        margin: 30px 129px;
+    }
+
+}
+
+
 @media (max-width: 1023px) {
-   
+    .desc-colum {
+        display: block;
+      }
+
 }
 
 
 @media (max-width: 740px){
-    
+  .desc-colum {
+    display: block;
+  }
+
+  .desc {
+    padding: 10px 10px;
+}
 }
